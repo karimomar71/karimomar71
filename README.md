@@ -7,12 +7,12 @@ flexible to project demands and shifting of priorities. Always enjoy opportuniti
  
 ## SKILLS :computer: 
 
-- problem solving
 - Devops
 - Cloud Services
 - Operation
-- Monitoring
 - Incedient Mangment
+- problem solving
+- Monitoring
 
 **Programming Languages : Python, C++, Javascript ,CSS, HTML.**
 	
